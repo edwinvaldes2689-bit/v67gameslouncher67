@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GatoGames Lake Louise Edition - Juegos Desbloqueados CCSD15 😼</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(45deg, #000, #0f0, #111);
+      color: #0f0;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+      animation: glow 2s infinite;
+    }
+    @keyframes glow { 0%,100%{text-shadow:0 0 20px #0f0;} 50%{text-shadow:0 0 40px #ff0;} }
+    h1 { color: #ff0; font-size: 3em; text-shadow: 0 0 20px #ff0; }
+    #login { 
+      background: rgba(0,0,0,0.9); 
+      padding: 50px; 
+      border-radius: 25px; 
+      display: inline-block; 
+      margin: 100px auto; 
+      box-shadow: 0 0 50px #0f0;
+    }
+    input { 
+      padding: 20px; 
+      font-size: 24px; 
+      margin: 20px; 
+      width: 300px; 
+      border-radius: 15px;
+      border: 3px solid #0f0;
+      background: #111;
+      color: #0f0;
+    }
+    button { 
+      padding: 20px 50px; 
+      font-size: 24px; 
+      background: #0f0; 
+      color: black; 
+      border: none; 
+      cursor: pointer; 
+      border-radius: 15px; 
+      margin: 10px;
+      transition: all 0.3s;
+    }
+    button:hover { background: #0ff; transform: scale(1.1); }
+    #content { display: none; }
+    .section { margin: 50px 0; padding: 30px; background: rgba(0,0,0,0.5); border-radius: 20px; }
+    .game-link {
+      display: inline-block;
+      margin: 15px;
+      padding: 20px 40px;
+      background: #222;
+      color: #0f0;
+      text-decoration: none;
+      border: 4px solid #0f0;
+      border-radius: 20px;
+      font-size: 24px;
+      transition: all 0.4s;
+    }
+    .game-link:hover { 
+      background: #0f0; color: black; 
+      transform: scale(1.1); 
+      box-shadow: 0 0 30px #0f0;
+    }
+    .proxy-btn { background: #f0f !important; color: black !important; font-weight: bold; }
+    iframe {
+      width: 95%; max-width: 1000px;
+      height: 600px;
+      border: 4px solid #0f0;
+      border-radius: 20px;
+      box-shadow: 0 0 30px #0f0;
+      margin: 25px auto;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="login">
+    <h1>🐱 GatoGames LAKE LOUISE EDITION! 🎮</h1>
+    <p>Para CCSD15 - Anti-Filtros 2026 | Contraseña: gato67</p>
+    <input type="password" id="pass" placeholder="Ingresa gato67">
+    <br>
+    <button onclick="checkPassword()">🚀 ENTRAR AL LAUNCHER</button>
+  </div>
+
+  <div id="content">
+    <h1>¡Launcher Desbloqueado para Lake Louise! 😼🔥</h1>
+    <p>Juegos que pasan los filtros de CCSD15. ¡Prueba primero en incógnito!</p>
+
+    <div class="section">
+      <h2>🌐 Google & YouTube Desbloqueados (Sin Restricciones)</h2>
+      <a href="https://www.croxyproxy.com/" target="_blank" class="game-link proxy-btn">CroxyProxy - Google/YT Libre (Mejor 2026)</a>
+      <p style="color:#aaa;">Pega google.com, youtube.com o lo que quieras. Funciona en Chromebooks IL.</p>
+    </div>
+
+    <div class="section">
+      <h2>📱 Sitios Unblocked Top 2026 (Enlaces Directos)</h2>
+      <a href="https://www.crazygames.com" target="_blank" class="game-link">CrazyGames</a>
+      <a href="https://poki.com" target="_blank" class="game-link">Poki</a>
+      <a href="https://now.gg" target="_blank" class="game-link">Now.gg (Roblox Cloud)</a>
+      <a href="https://www.coolmathgames.com" target="_blank" class="game-link">Coolmath</a>
+      <a href="https://www.hoodamath.com" target="_blank" class="game-link">Hooda Math (Educativo 😏)</a>
+      <a href="https://armorgames.com" target="_blank" class="game-link">Armor Games</a>
+      <a href="https://www.kongregate.com" target="_blank" class="game-link">Kongregate</a>
+      <a href="https://sites.google.com/view/unblocked-games-76-77" target="_blank" class="game-link">Unblocked 76/77</a>
+    </div>
+
+    <div class="section">
+      <h2>🎮 Juegos Directos en Launcher (Iframes - Juega Aquí!)</h2>
+      <p>Slope (Adictivo endless runner)</p>
+      <iframe src="https://www.crazygames.com/embed/slope" allowfullscreen></iframe>
+
+      <p>OvO (Plataformas rápidas)</p>
+      <iframe src="https://www.crazygames.com/embed/ovo" allowfullscreen></iframe>
+
+      <p>Basket Random (Divertido basket 2P)</p>
+      <iframe src="https://www.crazygames.com/embed/basket-random" allowfullscreen></iframe>
+
+      <p>Temple Run 2 (Clásico runner)</p>
+      <iframe src="https://www.crazygames.com/embed/temple-run-2" allowfullscreen></iframe>
+
+      <p>Subway Surfers</p>
+      <iframe src="https://www.crazygames.com/embed/subway-surfers" allowfullscreen></iframe>
+    </div>
+
+    <p style="color:#888; margin-top:80px; font-size:20px;">GatoGames v3 Lake Louise | Actualizado Ene 2026 🐱 | No abuses! <br>Si un iframe falla, usa el enlace.</p>
+  </div>
+
+  <script>
+    function checkPassword() {
+      var input = document.getElementById("pass").value;
+      if (input === "gato67") {
+        document.getElementById("login").style.display = "none";
+        document.getElementById("content").style.display = "block";
+      } else {
+        alert("¡Error! Usa 'gato67' 😿");
+        document.getElementById("pass").value = "";
+      }
+    }
+    // Enter key
+    document.addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') checkPassword();
+    });
+  </script>
+
+</body>
+</html>
